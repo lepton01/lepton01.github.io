@@ -2,9 +2,7 @@
 
 Puedo escribir cualquier cosa
 
-## Sexo
-
-a
+## Julia P. Language
 
 using Random
 a = rand(1_000)

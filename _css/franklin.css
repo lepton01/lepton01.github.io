@@ -8,7 +8,7 @@
   --small: 14px;
   --normal: 19px;
   --text-color: hsv(0, 0%, 20%);
-  background-color: tan;
+  background-color: rgb(157, 157, 157);
 }
 
 /* ==================================================================
@@ -56,14 +56,14 @@ html {
 
 .franklin-content .page-foot a {
   text-decoration: none;
-  color: #a6a2a0;
+  color: #000000;
   text-decoration: underline;
 }
 
 .page-foot {
   font-size: 80%;
   font-family: Arial, serif;
-  color: #a6a2a0;
+  color: #000000;
   text-align: center;
   margin-top: 6em;
   border-top: 1px solid lightgrey;
