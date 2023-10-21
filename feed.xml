@@ -9,11 +9,11 @@
 
   <channel>
     <title>
-      <![CDATA[  Franklin Template  ]]>
+      <![CDATA[  Another Sctientist Notes  ]]>
     </title>
     <link> https://tlienart.github.io/FranklinTemplates.jl/ </link>
     <description>
-      <![CDATA[  Example website using Franklin  ]]>
+      <![CDATA[  My personal blog  ]]>
     </description>
     <atom:link
       href="https://tlienart.github.io/FranklinTemplates.jl/feed.xml"
